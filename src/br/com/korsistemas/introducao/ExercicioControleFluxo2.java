@@ -1,3 +1,5 @@
+package br.com.korsistemas.introducao;
+
 public class ExercicioControleFluxo2 {
     public static void main(String[] args) {
         // crie um switch que dado um valor de 1 a 7.

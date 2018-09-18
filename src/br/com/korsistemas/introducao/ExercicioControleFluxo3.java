@@ -1,3 +1,5 @@
+package br.com.korsistemas.introducao;
+
 public class ExercicioControleFluxo3 {
     public static void main(String[] args) {
         //Imprima todos os numeros pares de 0 até 10000

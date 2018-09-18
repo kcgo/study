@@ -1,3 +1,5 @@
+package br.com.korsistemas.introducao;
+
 public class RelatorioPendencia {
     public static void main(String [] args){
 

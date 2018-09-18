@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23b764e4-9af0-44c6-8e2b-de6f40f08571" name="Default Changelist" comment="" />
+    <list default="true" id="23b764e4-9af0-44c6-8e2b-de6f40f08571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Arrays3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDeFluxo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDefluxo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ImprimindoVariaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/OperadoresAtribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/RelatorioPendencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDefluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDefluxo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ImprimindoVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Logicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/OperadoresAtribuicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelatorioPendencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/RelatorioPendencia.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,32 +41,34 @@
     <session id="-1260124610">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="3927" />
+          <entry key="java" value="4959" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3927" />
+          <entry key="JAVA" value="4959" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -49,75 +79,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/OlaMundo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDefluxo4.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OperadoresAtribuicao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo2.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControleFluxo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDeFluxo5.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/Arrays3.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControleFluxo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo2.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo1.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControleDefluxo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo3.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/OperadoresAtribuicao.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ImprimindoVariaveis.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -131,6 +139,12 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="kcgo" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="study" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,15 +163,21 @@
         <option value="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" />
         <option value="$PROJECT_DIR$/src/ControleDefluxo4.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" />
+        <option value="$PROJECT_DIR$/src/ControleDeFluxo5.java" />
+        <option value="$PROJECT_DIR$/src/Arrays3.java" />
+        <option value="$PROJECT_DIR$/src/Array4.java" />
+        <option value="$PROJECT_DIR$/src/Array5.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1395" />
-    <option name="y" value="-17" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-1448" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -189,8 +209,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Git-2.19.0-64-bit.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\katia.goncalves\IdeaProjects\untitled\src\br\com\korsistemas\introducao" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,30 +229,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExercicioControleFluxo3">
-    <configuration name="ControleDefluxo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleDefluxo4" />
+  <component name="RunManager" selected="Application.Array5">
+    <configuration name="Array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array4" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleFluxo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleFluxo3" />
+    <configuration name="Array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array5" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxo" />
+    <configuration name="Arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays3" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioControleFluxo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxo2" />
+    <configuration name="ControleDeFluxo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo5" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,25 +266,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExercicioControleFluxo" />
-      <item itemvalue="Application.ControleFluxo3" />
-      <item itemvalue="Application.ExercicioControleFluxo2" />
-      <item itemvalue="Application.ControleDefluxo4" />
       <item itemvalue="Application.ExercicioControleFluxo3" />
+      <item itemvalue="Application.ControleDeFluxo5" />
+      <item itemvalue="Application.Arrays3" />
+      <item itemvalue="Application.Array4" />
+      <item itemvalue="Application.Array5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array5" />
+        <item itemvalue="Application.Array4" />
+        <item itemvalue="Application.Arrays3" />
+        <item itemvalue="Application.ControleDeFluxo5" />
         <item itemvalue="Application.ExercicioControleFluxo3" />
-        <item itemvalue="Application.ControleDefluxo4" />
-        <item itemvalue="Application.ExercicioControleFluxo2" />
-        <item itemvalue="Application.ControleFluxo3" />
-        <item itemvalue="Application.ExercicioControleFluxo" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1448" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49821427" visible="true" weight="0.2496474" />
       <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.2496474" />
@@ -267,13 +291,13 @@
       <window_info id="Favorites" order="3" sideWeight="0.5017857" side_tool="true" weight="0.2496474" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24528302" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56393445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -365,9 +389,67 @@
     <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDefluxo4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDeFluxo5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/Arrays3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/OperadoresAtribuicao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ImprimindoVariaveis.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
