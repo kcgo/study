@@ -1,4 +1,4 @@
-package br.com.korsistemas.introducao;
+package br.com.korsistemas.introducao.introducao;
 
 public class Arrays3 {
     public static void main(String[] args) {
