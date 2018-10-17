@@ -2,24 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b764e4-9af0-44c6-8e2b-de6f40f08571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/EstudanteTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ParametrosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ProfessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/sobrecargametodos/classe/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Array4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Array4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Array5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Array5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Arrays3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Arrays3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDeFluxo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleDeFluxo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleDefluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleDefluxo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleFluxo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ExercicioControleFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ExercicioControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ExercicioControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ImprimindoVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/Logicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Logicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/OperadoresAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/OperadoresAtribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/RelatorioPendencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/RelatorioPendencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ControleDefluxo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ControleFluxo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ControleFluxo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ControleFluxo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ExercicioControleFluxo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ExercicioControleFluxo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ExercicioControleFluxo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ImprimindoVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Logicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/OperadoresAtribuicao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/RelatorioPendencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/com/company/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/EstudanteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/EstudanteTeste.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,35 +35,38 @@
     <session id="-1260124610">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="5083" />
+          <entry key="java" value="7834" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5083" />
+          <entry key="JAVA" value="7834" />
           <entry key="PLAIN_TEXT" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="37" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
     </session>
@@ -70,60 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Array5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/RelatorioPendencia.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/OperadoresAtribuicao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/Logicos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ImprimindoVariaveis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ExercicioControleFluxo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ExercicioControleFluxo2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,23 +95,107 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/Estudante.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Estudante.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="-34">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#1246#1247#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1303#1304#0" expanded="true" />
+                <element signature="e#1456#1457#0" expanded="true" />
+                <element signature="e#1484#1485#0" expanded="true" />
+                <element signature="e#1528#1529#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1588#1589#0" expanded="true" />
+                <element signature="e#1624#1625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/EstudanteTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/EstudanteTeste.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/sobrecargametodos/classe/Funcionario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Calculadora.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ParametrosTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Professor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ProfessorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/CalculadoraTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -174,6 +210,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -206,13 +243,22 @@
         <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/ExercicioControleFluxo3.java" />
         <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/Estudante.java" />
         <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/EstudanteTeste.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ParametrosTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/Professor.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ProfessorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Professor.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/CalculadoraTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Estudante.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/EstudanteTeste.java" />
+        <option value="$PROJECT_DIR$/src/br/com/korsistemas/introducao/sobrecargametodos/classe/Funcionario.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1351" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="1468" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,6 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,14 +295,21 @@
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="introducao" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
+              <item name="sobrecargametodos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="introducao" type="462c0819:PsiDirectoryNode" />
+              <item name="sobrecargametodos" type="462c0819:PsiDirectoryNode" />
+              <item name="classe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,14 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array5">
-    <configuration name="Array4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array4" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EstudanteTeste">
     <configuration name="Array5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array5" />
       <module name="untitled" />
@@ -294,55 +341,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays3" />
+    <configuration name="CalculadoraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.CalculadoraTest" />
       <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.korsistemas.introducao.javacore.introducaoClasses.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleDeFluxo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo5" />
+    <configuration name="EstudanteTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.EstudanteTeste" />
       <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioControleFluxo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxo3" />
+    <configuration name="ParametrosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.ParametrosTest" />
       <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfessorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.ProfessorTest" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.korsistemas.introducao.javacore.introducaoClassesTeste.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExercicioControleFluxo3" />
-      <item itemvalue="Application.ControleDeFluxo5" />
-      <item itemvalue="Application.Arrays3" />
-      <item itemvalue="Application.Array4" />
       <item itemvalue="Application.Array5" />
+      <item itemvalue="Application.CalculadoraTest" />
+      <item itemvalue="Application.ProfessorTest" />
+      <item itemvalue="Application.ParametrosTest" />
+      <item itemvalue="Application.EstudanteTeste" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTeste" />
+        <item itemvalue="Application.CalculadoraTest" />
+        <item itemvalue="Application.ProfessorTest" />
+        <item itemvalue="Application.ParametrosTest" />
         <item itemvalue="Application.Array5" />
-        <item itemvalue="Application.Array4" />
-        <item itemvalue="Application.Arrays3" />
-        <item itemvalue="Application.ControleDeFluxo5" />
-        <item itemvalue="Application.ExercicioControleFluxo3" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49821427" visible="true" weight="0.26339287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49821427" visible="true" weight="0.2496474" />
       <window_info id="Structure" order="1" sideWeight="0.5017857" side_tool="true" weight="0.2496474" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5017857" side_tool="true" weight="0.2496474" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.56393445" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35309973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,118 +442,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="finalizado introdução" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Logicos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImprimindoVariaveis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RelatorioPendencia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/OlaMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OperadoresAtribuicao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleDefluxo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logicos.java" />
+    <entry file="file://$PROJECT_DIR$/src/ImprimindoVariaveis.java" />
+    <entry file="file://$PROJECT_DIR$/src/RelatorioPendencia.java" />
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/OlaMundo.java" />
+    <entry file="file://$PROJECT_DIR$/src/OperadoresAtribuicao.java" />
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java" />
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxo3.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ControleDefluxo4.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Array4.java" />
+    <entry file="file://$PROJECT_DIR$/src/Arrays3.java" />
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo5.java" />
+    <entry file="file://$PROJECT_DIR$/src/Array5.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/introducao/ControleDeFluxo5.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -561,20 +543,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/Estudante.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/CalculadoraTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/EstudanteTeste.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Calculadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="714">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ProfessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/ParametrosTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClasses/classes/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/javacore/introducaoClassesTeste/test/EstudanteTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/korsistemas/introducao/sobrecargametodos/classe/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
           </folding>
         </state>
       </provider>
