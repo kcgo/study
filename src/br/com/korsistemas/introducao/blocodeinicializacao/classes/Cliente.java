@@ -7,7 +7,7 @@ public class Cliente {
     //2- Cada atributo de classe é criado e inicializado com seus valores default ou valores explicitos
     //3- Bloco de inicializacao é executado
     //4- o construtor é executado
-    private int[] parcelas;
+    private static int[] parcelas;
 
     {
         parcelas = new int[100];
@@ -21,11 +21,8 @@ public class Cliente {
 
     }
 
-    public int[] getParcelas() {
+    public static int[] getParcelas() {
         return parcelas;
     }
 
-    public void setParcelas(int[] parcelas) {
-        this.parcelas = parcelas;
-    }
 }

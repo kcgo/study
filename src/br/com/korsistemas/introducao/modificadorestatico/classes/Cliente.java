@@ -2,14 +2,14 @@ package br.com.korsistemas.introducao.modificadorestatico.classes;
 
 
 public class Cliente {
+    //1- cbloco de inicalizaçao  estatico é executado quando a JVM carreage a classe( é executado apenas uma vez).
+    //2- Alocado espaço na memoria para o objeto que será criado
+    //3- Cada atributo de classe é criado e inicializado com seus valores default ou valores explicitos
+    //4- Bloco de inicializacao é executado
+    //5- o construtor é executado
+    private static int[] parcelas;
 
-    //1- Alocado espaço na memoria para o objeto que será criado
-    //2- Cada atributo de classe é criado e inicializado com seus valores default ou valores explicitos
-    //3- Bloco de inicializacao é executado
-    //4- o construtor é executado
-    private int[] parcelas;
-
-    {
+   static {
         parcelas = new int[100];
         System.out.println("Dento do bloco de inicialização");
         for (int i = 1; i <= 100; i++) {
@@ -21,11 +21,9 @@ public class Cliente {
 
     }
 
-    public int[] getParcelas() {
+    public static int[] getParcelas() {
         return parcelas;
     }
 
-    public void setParcelas(int[] parcelas) {
-        this.parcelas = parcelas;
-    }
+
 }
