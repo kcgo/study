@@ -17,11 +17,11 @@ public class Aluno {
     public void print() {
         System.out.println("Nome: " + this.nome);
         System.out.println("idade: " + this.idade);
-        if (this.seminario != null)
+        if (this.seminario != null) {
             System.out.println("Seminario: " + this.seminario.getTitulo());
-        else
+            return;
+        }
             System.out.println("Aluno não está escrito em nehum seminario");
-
     }
 
     public String getNome() {

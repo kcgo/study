@@ -12,6 +12,11 @@ public class Local {
     public Local() {
     }
 
+    public void print(){
+        System.out.println("Rua: "+this.rua);
+        System.out.println("Bairro: "+this.bairro);
+    }
+
     public String getRua() {
         return rua;
     }
