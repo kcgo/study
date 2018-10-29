@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="br.com.korsistemas.introducao.enumeracoes.classes.Cliente" />
+  </component>
+</application>
