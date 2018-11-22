@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:/kcgo/studies.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.pontosmultiplus.com.br/Sistemas/Aplicacoes/Cadastro/Cadastro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\katia.goncalves\IdeaProjects" />
